@@ -63,5 +63,16 @@ The dashboard helps in:
 - Consumption trends show seasonal patterns  
 - Cost depends on both usage and rate structure  
 
+## 🔄 Data Flow
+Dataset → SQL Queries → Data Transformation → Excel Dashboard → Insights
+
+---
+
+## ⚙️ Technical Implementation
+- Used SQL to create structured views for analysis  
+- Imported processed data into Excel using data connections  
+- Built KPIs using Pivot Tables and Power Pivot  
+- Designed dashboard with charts, slicers, and filters  
+
 ## 👤 Author
 Kalista
