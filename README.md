@@ -1,11 +1,12 @@
 # ⚡ Energy Consumption Dashboard (SQL + Excel)
 
 ## 📌 Project Overview
-This project analyzes energy consumption data (Electricity, Water, Gas) using SQL and Excel.
+This project focuses on analyzing energy consumption data (Electricity, Water, Gas) to identify usage patterns, cost trends, and efficiency insights.
 
-The goal is to identify patterns in consumption, track costs, and compare usage across buildings.
-
----
+The dashboard helps in:
+- Monitoring energy usage across buildings
+- Comparing consumption trends over time
+- Analyzing cost and efficiency using KPIs
 
 ## 🛠️ Tools & Technologies
 - SQL (data cleaning and queries)
@@ -26,12 +27,12 @@ The goal is to identify patterns in consumption, track costs, and compare usage 
 ---
 
 ## 🧠 My Contribution
-- Explored dataset and understood relationships between tables  
-- Worked with SQL queries to analyze consumption data  
-- Used Excel dashboard to visualize trends and KPIs  
-- Interpreted energy usage patterns and insights  
-
----
+- Analyzed energy consumption dataset using SQL queries  
+- Performed data cleaning and transformation for structured analysis  
+- Explored relationships between buildings, rates, and consumption  
+- Built and interacted with Excel dashboard using Pivot Tables and Power Pivot  
+- Generated insights from consumption trends and KPIs
+  
 
 ## 📷 Dashboard Preview
 <img width="895" height="618" alt="Screenshot 2026-05-03 174901" src="https://github.com/user-attachments/assets/6eabfad4-5b81-4a61-b9db-8301816f2b60" />
@@ -57,12 +58,10 @@ The goal is to identify patterns in consumption, track costs, and compare usage 
 
 ---
 
-## 📌 Key Insights
-- Energy consumption varies significantly across buildings  
-- Identified trends over time (monthly/yearly)  
-- Cost depends on consumption and rate structure  
-
----
+## 📊 Key Insights
+- Energy usage varies across buildings and time periods  
+- Consumption trends show seasonal patterns  
+- Cost depends on both usage and rate structure  
 
 ## 👤 Author
 Kalista
