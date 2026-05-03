@@ -8,6 +8,11 @@ The dashboard helps in:
 - Comparing consumption trends over time
 - Analyzing cost and efficiency using KPIs
 
+## 🎯 Problem Statement
+Analyzing large-scale energy consumption data to identify trends, optimize usage, and reduce costs.
+
+- Created SQL queries and views to structure and aggregate energy data
+
 ## 🛠️ Tools & Technologies
 - SQL (data cleaning and queries)
 - Microsoft Excel (Pivot Tables, Power Pivot, Dashboard)
